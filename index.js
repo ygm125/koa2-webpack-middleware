@@ -1,5 +1,5 @@
-let devMiddleware = require('./devMiddleware')
-let hotMiddleware = require('./hotMiddleware')
+let devMiddleware = require('./middleware/devMiddleware')
+let hotMiddleware = require('./middleware/hotMiddleware')
 
 module.exports = {
     devMiddleware,
