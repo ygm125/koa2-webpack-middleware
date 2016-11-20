@@ -1,7 +1,7 @@
 {
   "name": "koa2-webpack-middleware",
-  "version": "1.0.5",
-  "description": "webpack dev&amp;hot middleware for koa2",
+  "version": "1.0.8",
+  "description": "webpack dev&hot middleware for koa2",
   "main": "index.js",
   "dependencies": {
     "webpack-dev-middleware": "^1.8.4",
